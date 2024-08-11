@@ -160,7 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Fatma Khalil - [Github](https://github.com/zahraa-khalil)
-Ahmed Nageb - [Github]
+Ahmed Nageb - [Github](https://github.com/Ahmed-Nageb)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
